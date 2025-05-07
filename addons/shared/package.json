@@ -8,7 +8,7 @@
     "ts-jest": "27"
   },
   "dependencies": {
-    "@primer/react": "35.7.0",
+    "@primer/react": "35.28.0",
     "@types/diff": "^5.0.2",
     "@vscode/codicons": "^0.0.32",
     "diff": "^5.0.0",
